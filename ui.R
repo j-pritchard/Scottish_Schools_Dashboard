@@ -85,7 +85,7 @@ ui <- fluidPage(theme = shinytheme("cerulean"),
                fluidRow(tags$h3("Schools Data"),
     "Information about Scottish schools is updated by the Scottish Government
     annually for the purposes of monitoring overall performance, equality and
-    individual policies. The dataset is reflective of theJuly 2022 schools
+    individual policies. The dataset is reflective of the July 2022 schools
     locations data (published 10th October 2022) and July 2022 school roll,
     FTE teachers, proportion minority background, and proportion 20% most
     deprived data (published 21st March 2023). The data can be found ",
