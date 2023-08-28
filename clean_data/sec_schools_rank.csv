@@ -1,0 +1,341 @@
+"","school_type","school_name","la_name","website_address","denomination","pupil_roll","fte_teachers","dzsimd_percentile","latitude","longitude","pupil_teacher_ratio","rank","five_highers"
+"1","Secondary","Cumbernauld Academy","North Lanarkshire","http://www.cumbernauldac.n-lanark.sch.uk/","Non-denominational",1031,84,25,55.9485962,-3.9700406,12.2738095238095,171,0.36
+"2","Secondary","Levenmouth Academy","Fife","http://www.levenmouthacademy.org.uk/","Non-denominational",1684,120.9,15,56.1810532,-3.0356694,13.9288668320926,328,0.16
+"3","Secondary","Lochside Academy","Aberdeen City","https://lochside.aberdeen.sch.uk/","Non-denominational",1138,87.3,80,57.1125822,-2.0974507,13.0355097365407,334,0.13
+"4","Secondary","Kilmarnock Academy","East Ayrshire","https://blogs.glowscotland.org.uk/ea/eastayrshiregrangeacademymain2017/","Non-denominational",1244,92.4,23,55.6153944,-4.4731779,13.4632034632035,149,0.38
+"5","Secondary","North West Community Campus","Dumfries and Galloway","https://blogs.glowscotland.org.uk/dg/northwestcommunitycampus/","Non-denominational",325,20.9,7,55.0799044,-3.6346083,15.5502392344498,339,0.09
+"6","Secondary","Bertha Park High School","Perth and Kinross","https://www.berthaparkhigh.org.uk/","Non-denominational",568,51.2,67,56.4222073,-3.4849803,11.09375,340,0
+"7","Secondary","Robert Burns Academy","East Ayrshire","https://blogs.glowscotland.org.uk/ea/therobertburnsacademy","Non-denominational",1715,130.7,92,55.4560278,-4.2768521,13.1216526396327,314,0.21
+"8","Secondary","Thurso High School","Highland","http://thursohighschool.wordpress.com","Non-denominational",731,56.1,21,58.587151,-3.5307275,13.030303030303,159,0.37
+"9","Secondary","Wick High School","Highland","http://www.wickhighschool.org","Non-denominational",731,57.2,38,58.4375998,-3.0990709,12.7797202797203,319,0.2
+"10","Secondary","Dornoch Academy","Highland","http://www.dornochacademy.org/","Non-denominational",194,23.2,67,57.8827806,-4.0455897,8.36206896551724,244,0.29
+"11","Secondary","Golspie High School","Highland","http://golspiehigh.schools.uk.com/","Non-denominational",263,26.9,34,57.9754806,-3.9734226,9.77695167286245,216,0.32
+"12","Secondary","Farr High School","Highland","https://farrhigh.wordpress.com/","Non-denominational",71,13.3,51,58.5260941,-4.2249213,5.33834586466165,62,0.5
+"13","Secondary","Gairloch High School","Highland","https://gairlochhigh.org.uk/","Non-denominational",104,14.4,62,57.7293571,-5.6921491,7.22222222222222,280,0.25
+"14","Secondary","Dingwall Academy","Highland","http://www.dingwallacademy.com/","Non-denominational",1019,88.2,57,57.6009578,-4.4314666,11.5532879818594,284,0.24
+"15","Secondary","Fortrose Academy","Highland","http://www.fortroseacademy.co.uk/","Non-denominational",637,49.1,75,57.5798694,-4.1256245,12.9735234215886,94,0.44
+"16","Secondary","Invergordon Academy","Highland","http://invergordonacademy.com/","Non-denominational",347,30.3,31,57.6928859,-4.1673377,11.4521452145215,322,0.18
+"17","Secondary","Tain Royal Academy","Highland","http://www.tainroyalacademy.org.uk/","Non-denominational",532,41.8,28,57.8080249,-4.0570069,12.7272727272727,219,0.32
+"18","Secondary","Ullapool High School","Highland","http://www.ullapoolhigh.highland.sch.uk","Non-denominational",184,22.8,68,57.8982267,-5.1549083,8.07017543859649,33,0.56
+"19","Secondary","Alness Academy","Highland","http://alnessacademy.wordpress.com","Non-denominational",488,38.6,32,57.693003,-4.2491502,12.6424870466321,323,0.18
+"20","Secondary","Plockton High School","Highland","http://plocktonhighschool.co.uk/","Non-denominational",224,26.6,65,57.3343926,-5.6660398,8.42105263157895,204,0.33
+"21","Secondary","Portree High School","Highland","http://www.portreehigh.highland.sch.uk","Non-denominational",489,43.8,35,57.4127611,-6.2035905,11.1643835616438,131,0.4
+"22","Secondary","Ardnamurchan High School","Highland","http://www.ardnamurchanhighschool.org/index.asp","Non-denominational",133,17.6,56,56.6998108,-5.5681904,7.55681818181818,233,0.3
+"23","Secondary","Kinlochleven High School","Highland","http://kinlochlevenhs.schoolwebsite.scot/home","Non-denominational",135,18.2,33,56.7144552,-4.9668652,7.41758241758242,278,0.25
+"24","Secondary","Mallaig High School","Highland","http://www.mallaighigh.com/index.html","Non-denominational",100,13.3,70,57.0009446,-5.8314679,7.5187969924812,47,0.53
+"25","Secondary","Lochaber High School","Highland","http://www.lochaberhigh.org","Non-denominational",862,68.9,55,56.8368019,-5.0775423,12.510885341074,220,0.32
+"26","Secondary","Glen Urquhart High School","Highland","https://en-gb.facebook.com/glenurquharthighschool/","Non-denominational",208,22.6,59,57.3281893,-4.4847817,9.20353982300885,52,0.52
+"27","Secondary","Inverness High School","Highland","http://invernesshs.wordpress.com","Non-denominational",488,45.8,63,57.4762125,-4.2360979,10.6550218340611,337,0.11
+"28","Secondary","Millburn Academy","Highland","http://www.millburnacademy.co.uk/","Non-denominational",1246,97.3,56,57.4801468,-4.2091226,12.8057553956835,104,0.43
+"29","Secondary","Inverness Royal Academy","Highland","http://invernessroyalacademy.org.uk/","Non-denominational",1353,92.9,76,57.4497569,-4.2255981,14.5640473627556,148,0.38
+"30","Secondary","Charleston Academy","Highland","http://www.charleston.highland.sch.uk/","Non-denominational",738,58.1,18,57.4708193,-4.2558647,12.7022375215146,282,0.25
+"31","Secondary","Culloden Academy","Highland","http://cullodenacademy.com","Non-denominational",1115,81.7,98,57.4922837,-4.1303627,13.6474908200734,89,0.45
+"32","Secondary","Kingussie High School","Highland","http://kingussiehigh.org.uk/","Non-denominational",413,41,71,57.0780863,-4.0496656,10.0731707317073,103,0.43
+"33","Secondary","Grantown Grammar School","Highland","https://grantowngrammar.wordpress.com/","Non-denominational",353,35.8,71,57.3344595,-3.5989099,9.86033519553073,79,0.47
+"34","Secondary","Nairn Academy","Highland","http://nairnacademy.wordpress.com","Non-denominational",660,51.7,41,57.5772294,-3.8827836,12.7659574468085,253,0.28
+"35","Secondary","Elgin Academy","Moray","https://www.elginacademy.co.uk/","Non-denominational",1028,73.2,92,57.6535948,-3.3281848,14.0437158469945,226,0.31
+"36","Secondary","Milne's High School","Moray","http://www.milneshighschool.org.uk/","Non-denominational",445,40.4,77,57.609798,-3.1003007,11.0148514851485,57,0.51
+"37","Secondary","Forres Academy","Moray","https://blogs.glowscotland.org.uk/my/forresacademy/","Non-denominational",851,70.2,96,57.6035828,-3.6117804,12.1225071225071,270,0.26
+"38","Secondary","Lossiemouth High School","Moray","http://www.lossiehigh.co.uk/","Non-denominational",617,50.6,81,57.7128639,-3.2945514,12.1936758893281,186,0.35
+"39","Secondary","Buckie High School","Moray","http://www.buckiehigh.com/","Non-denominational",837,71.8,62,57.6726948,-2.9698902,11.6573816155989,207,0.33
+"40","Secondary","Keith Grammar School","Moray","https://blogs.glowscotland.org.uk/my/keithgrammar/","Non-denominational",377,38.6,61,57.5449929,-2.9451608,9.76683937823834,335,0.12
+"41","Secondary","Speyside High School","Moray","http://www.moray.gov.uk/moray_schools/page_727.html","Non-denominational",402,36.5,75,57.4707948,-3.2190558,11.013698630137,269,0.26
+"42","Secondary","Elgin High School","Moray","http://www.elginhigh.moray.sch.uk/","Non-denominational",831,66.4,75,57.6358735,-3.3236353,12.5150602409639,254,0.28
+"43","Secondary","Banff Academy","Aberdeenshire","http://www.banffacademy.aberdeenshire.sch.uk/","Non-denominational",962,72.6,57,57.6621068,-2.5321431,13.2506887052342,272,0.26
+"44","Secondary","Fraserburgh Academy","Aberdeenshire","http://www.fraserburghacademy.co.uk/","Non-denominational",1125,90.2,45,57.6871911,-2.0146051,12.4722838137472,290,0.24
+"45","Secondary","Peterhead Academy","Aberdeenshire","http://www.peterheadacademy.aberdeenshire.sch.uk/","Non-denominational",1225,84.8,58,57.5086368,-1.7885682,14.4457547169811,307,0.22
+"46","Secondary","Turriff Academy","Aberdeenshire","http://www.turriff.aberdeenshire.sch.uk","Non-denominational",652,59.3,52,57.5365212,-2.4608702,10.9949409780776,301,0.23
+"47","Secondary","Mintlaw Academy","Aberdeenshire","http://mintlawacademy.aberdeenshire.sch.uk/","Non-denominational",892,71.3,59,57.5245675,-2.0132712,12.5105189340813,295,0.23
+"48","Secondary","Alford Academy","Aberdeenshire","http://www.alfordacademy.aberdeenshire.sch.uk/","Non-denominational",704,60.5,74,57.2313696,-2.71361,11.6363636363636,65,0.49
+"49","Secondary","Ellon Academy","Aberdeenshire","http://www.ellonacademy.org.uk/","Non-denominational",1124,91.5,67,57.3589674,-2.0537718,12.2841530054645,143,0.38
+"50","Secondary","The Gordon Schools","Aberdeenshire","http://www.gordonschools.aberdeenshire.sch.uk","Non-denominational",685,59.3,51,57.4505326,-2.7849894,11.5514333895447,211,0.33
+"51","Secondary","Inverurie Academy","Aberdeenshire","http://www.inverurieacademy.co.uk/","Non-denominational",1195,91.5,58,57.2820484,-2.3784953,13.0601092896175,80,0.46
+"52","Secondary","Meldrum Academy","Aberdeenshire","http://www.meldrumacademy.co.uk/","Non-denominational",1007,83.5,88,57.3369507,-2.3315536,12.059880239521,108,0.43
+"53","Secondary","Westhill Academy","Aberdeenshire","http://www.westhillacademy.aberdeenshire.sch.uk/","Non-denominational",823,69.6,99,57.1559453,-2.2823547,11.8247126436782,26,0.58
+"54","Secondary","Kemnay Academy","Aberdeenshire","http://www.kemnayacademy.aberdeenshire.sch.uk/","Non-denominational",982,79.2,40,57.2414366,-2.4476861,12.3989898989899,119,0.41
+"55","Secondary","Bucksburn Academy","Aberdeen City","https://www.bucksburnacademy.org.uk/","Non-denominational",876,82.5,37,57.1773566,-2.1825272,10.6181818181818,214,0.32
+"56","Secondary","Bridge Of Don Academy","Aberdeen City","http://www.bridgeofdon.aberdeen.sch.uk/","Non-denominational",732,58.6,77,57.1847561,-2.1110928,12.4914675767918,234,0.3
+"57","Secondary","Cults Academy","Aberdeen City","http://www.cults-academy.aberdeen.sch.uk/","Non-denominational",1188,87.2,89,57.1179228,-2.1901712,13.6238532110092,6,0.74
+"58","Secondary","Harlaw Academy","Aberdeen City","http://www.harlawacademy.aberdeen.sch.uk/","Non-denominational",1019,82,92,57.1424492,-2.1176256,12.4268292682927,189,0.34
+"59","Secondary","Dyce Academy","Aberdeen City","http://www.dyceacademy.aberdeen.sch.uk/","Non-denominational",643,55.2,52,57.2057113,-2.1759578,11.6485507246377,279,0.25
+"60","Secondary","Hazlehead Academy","Aberdeen City","http://hazleheadacy.aberdeen.sch.uk/","Non-denominational",1019,81.8,55,57.1442461,-2.1786075,12.4572127139364,155,0.38
+"61","Secondary","Aberdeen Grammar School","Aberdeen City","http://www.grammar.org.uk","Non-denominational",1173,90.2,48,57.1469242,-2.115954,13.0044345898004,25,0.59
+"62","Secondary","Oldmachar Academy","Aberdeen City","http://www.oldmachar.aberdeen.sch.uk/","Non-denominational",869,59.6,88,57.1935594,-2.1241297,14.5805369127517,45,0.54
+"63","Secondary","St Machar Academy","Aberdeen City","http://www.st-macharacademy.aberdeen.sch.uk/","Non-denominational",990,71,36,57.1660442,-2.1112019,13.943661971831,263,0.27
+"64","Secondary","Banchory Academy","Aberdeenshire","https://banchoryacademy.aberdeenshire.sch.uk/","Non-denominational",851,66.8,93,57.0530403,-2.4914579,12.7395209580838,37,0.56
+"65","Secondary","Mackie Academy","Aberdeenshire","http://www.mackie.aberdeenshire.sch.uk/","Non-denominational",1177,87.7,85,56.9714031,-2.2224106,13.4207525655644,101,0.44
+"66","Secondary","Mearns Academy","Aberdeenshire","http://www.mearns.aberdeenshire.sch.uk/","Non-denominational",677,56.1,82,56.8378698,-2.4592471,12.0677361853832,82,0.46
+"67","Secondary","Aboyne Academy","Aberdeenshire","http://www.aboyneacademy.com/","Non-denominational",707,61.1,82,57.0754012,-2.7952949,11.5711947626841,85,0.46
+"68","Secondary","Portlethen Academy","Aberdeenshire","http://www.portlethenacademy.aberdeenshire.sch.uk/","Non-denominational",930,73.5,86,57.0571441,-2.1359503,12.6530612244898,224,0.31
+"69","Secondary","Arbroath Academy","Angus","http://www.arbroathacademy.angus.sch.uk/","Non-denominational",691,58.2,16,56.5694739,-2.5731258,11.872852233677,324,0.18
+"70","Secondary","Arbroath High School","Angus","http://www.arbroathhigh.angus.sch.uk","Non-denominational",880,72.7,52,56.5614112,-2.6005824,12.1045392022008,251,0.28
+"71","Secondary","Brechin High School","Angus","http://www.brechinhigh.angus.sch.uk/","Non-denominational",550,47.8,81,56.7367347,-2.6724434,11.5062761506276,318,0.2
+"72","Secondary","Carnoustie High School","Angus","http://www.carnoustiehigh.angus.sch.uk","Non-denominational",814,79.4,63,56.5057443,-2.7248118,10.2518891687657,228,0.31
+"73","Secondary","Forfar Academy","Angus","https://blogs.glowscotland.org.uk/an/forfaracademy/","Non-denominational",1089,84.1,54,56.6527675,-2.8946734,12.94887039239,305,0.22
+"74","Secondary","Webster's High School","Angus","https://www.webstershigh.co.uk/","Non-denominational",654,62,20,56.6706452,-3.0060358,10.5483870967742,174,0.36
+"75","Secondary","Montrose Academy","Angus","http://www.montroseacademy.co.uk/","Non-denominational",857,68.4,22,56.709366,-2.4640994,12.5292397660819,297,0.23
+"76","Secondary","Craigie High School","Dundee City","http://craigiehighschool.ea.dundeecity.sch.uk/","Non-denominational",702,65.9,52,56.4730051,-2.9219568,10.6525037936267,289,0.24
+"77","Secondary","Grove Academy","Dundee City","http://grove.ea.dundeecity.sch.uk/","Non-denominational",1339,95.7,99,56.4708156,-2.8794405,13.9916405433647,93,0.44
+"78","Secondary","Harris Academy","Dundee City","http://harrisacademy.ea.dundeecity.sch.uk/","Non-denominational",1345,101.8,13,56.4741731,-2.9872934,13.2121807465619,156,0.38
+"79","Secondary","St Paul's RC Academy","Dundee City","http://st-pauls.ea.dundeecity.sch.uk/","Roman Catholic",956,73.8,12,56.4862145,-2.9798498,12.9539295392954,286,0.24
+"80","Secondary","Morgan Academy","Dundee City","http://morgan.ea.dundeecity.sch.uk/","Non-denominational",946,67,29,56.474721,-2.9540442,14.1194029850746,223,0.31
+"81","Secondary","St John's RC High School","Dundee City","http://stjohnshigh.ea.dundeecity.sch.uk/","Roman Catholic",1206,95,27,56.4753771,-2.996286,12.6947368421053,247,0.29
+"82","Secondary","Baldragon Academy","Dundee City","http://baldragon.ea.dundeecity.sch.uk/","Non-denominational",876,61.9,73,56.4949271,-2.9884792,14.1518578352181,330,0.15
+"83","Secondary","Monifieth High School","Angus","http://www.monifiethhighschool.com/","Non-denominational",1057,78.9,72,56.4790489,-2.8399514,13.3967046894804,66,0.49
+"84","Secondary","Braeview Academy","Dundee City","http://braeview.ea.dundeecity.sch.uk/home.htm","Non-denominational",704,57,61,56.4939616,-2.9150227,12.3508771929825,321,0.19
+"85","Secondary","Breadalbane Academy","Perth and Kinross","http://www.breadalbane.pkc.sch.uk/","Non-denominational",177,14.9,75,56.616972,-3.8698873,11.8791946308725,44,0.54
+"86","Secondary","The Community School of Auchterarder","Perth and Kinross","www.tcsoa.com","Non-denominational",433,24,67,56.2980872,-3.7084577,18.0416666666667,87,0.45
+"87","Secondary","Blairgowrie High School","Perth and Kinross","http://www.blairgowriehs.org.uk/","Non-denominational",838,73.9,68,56.5845248,-3.3424768,11.339648173207,313,0.21
+"88","Secondary","St John's RC Academy","Perth and Kinross","http://www.st-johnsacademy.org.uk/","Roman Catholic",404,20,73,56.4102307,-3.4379284,20.2,206,0.33
+"89","Secondary","Crieff High School","Perth and Kinross","http://www.crieffhigh.pkc.sch.uk/","Non-denominational",622,52.5,56,56.3660806,-3.8352632,11.847619047619,110,0.43
+"90","Secondary","Kinross High School","Perth and Kinross","http://www.kinrosshighschool.org.uk","Non-denominational",927,70.8,85,56.2166209,-3.4252222,13.0932203389831,56,0.51
+"91","Secondary","Perth Academy","Perth and Kinross","http://www.perthacademy.org.uk","Non-denominational",1016,79.6,87,56.3905002,-3.4606625,12.7638190954774,201,0.34
+"92","Secondary","Perth Grammar School","Perth and Kinross","http://www.perthgrammar.pkc.sch.uk/","Non-denominational",734,66,6,56.4102637,-3.4456175,11.1212121212121,173,0.36
+"93","Secondary","Perth High School","Perth and Kinross","http://www.perthhigh.net","Non-denominational",1442,104.2,87,56.3924235,-3.4682367,13.8387715930902,73,0.48
+"94","Secondary","Auchmuty High School","Fife","http://www.fifedirect.org.uk/auchmutyhs","Non-denominational",1316,99.8,26,56.195811,-3.1568012,13.186372745491,245,0.29
+"95","Secondary","Glenwood High School","Fife","http://www.fifedirect.org.uk/GlenwoodHS/","Non-denominational",880,72.4,10,56.1970624,-3.2058884,12.1546961325967,300,0.23
+"96","Secondary","Glenrothes High School","Fife","http://www.glenrotheshighschool.org.uk","Non-denominational",846,70.5,36,56.1986215,-3.1905615,12,138,0.39
+"97","Secondary","Balwearie High School","Fife","http://www.balweariehigh.co.uk","Non-denominational",1602,110.8,93,56.1005649,-3.1720677,14.4584837545126,217,0.32
+"98","Secondary","Kirkcaldy High School","Fife","http://www.fifedirect.org.uk/kirkcaldyhs","Non-denominational",1463,104.1,58,56.1322214,-3.1661285,14.0537944284342,264,0.27
+"99","Secondary","St Andrew's R C High School","Fife","http://www.fife-education.org.uk/st-andrewshs/","Roman Catholic",806,65.6,16,56.1327013,-3.1484926,12.2865853658537,285,0.24
+"100","Secondary","Viewforth High School","Fife","https://viewforthhighschool.co.uk/","Non-denominational",708,57.8,11,56.1327283,-3.1287101,12.2491349480969,268,0.27
+"101","Secondary","Waid Academy","Fife","https://blogs.glowscotland.org.uk/fi/waidacademy/","Non-denominational",700,61.8,52,56.2249193,-2.703878,11.3268608414239,95,0.44
+"102","Secondary","Bell Baxter High School","Fife","http://www.bbhs-online.co.uk/","Non-denominational",1515,105.3,74,56.3172248,-3.0289411,14.3874643874644,164,0.37
+"103","Secondary","Madras College","Fife","http://www.madras.fife.sch.uk","Non-denominational",1384,104.8,97,56.338681,-2.7985769,13.206106870229,55,0.51
+"104","Secondary","Dunfermline High School","Fife","https://www.fifedirect.org.uk/schoolsite/index.cfm?fuseaction=site&SiteID=9E555DB1-B726-BBC8-D70C98035DBA5AE2","Non-denominational",1447,100.5,61,56.062645,-3.4557719,14.3980099502488,132,0.4
+"105","Secondary","Queen Anne High School","Fife","http://www.qahs.org.uk/","Non-denominational",1806,130.2,92,56.0817105,-3.4643619,13.8709677419355,249,0.28
+"106","Secondary","Woodmill High School","Fife","http://www.fifedirect.org.uk/WoodmillHS/","Non-denominational",1394,103,14,56.0705468,-3.4236782,13.5339805825243,163,0.37
+"107","Secondary","St Columba's R C High School","Fife","http://www.fifedirect.org.uk/StColumbasRCHS","Roman Catholic",872,66.2,14,56.0702008,-3.4189626,13.1722054380665,258,0.27
+"108","Secondary","Inverkeithing High School","Fife","http://www.fifedirect.org.uk/inverkeithingps","Non-denominational",1560,104.4,50,56.0361237,-3.3868642,14.9425287356322,120,0.41
+"109","Secondary","Beath High School","Fife","https://www.fifedirect.org.uk/schoolsite/index.cfm?fuseaction=site&SiteID=6A78E61F-0BC2-3977-96DE83E15A412C79","Non-denominational",1304,100.6,39,56.113435,-3.3585094,12.962226640159,320,0.19
+"110","Secondary","Lochgelly High School","Fife","http://www.lochgellyhighschool.co.uk/","Non-denominational",808,74.4,68,56.1378488,-3.3169513,10.8602150537634,293,0.24
+"111","Secondary","West Calder High School","West Lothian","http://www.wchs.westlothian.org.uk","Non-denominational",1043,70.1,53,55.8535005,-3.559815,14.8787446504993,34,0.56
+"112","Secondary","Deans Community High School","West Lothian","http://www.deanscommunityhighschool.com/","Non-denominational",980,75.5,82,55.9059669,-3.5494396,12.9801324503311,142,0.39
+"113","Secondary","Inveralmond Community High School","West Lothian","http://www.inveralmondchs.westlothian.org.uk","Non-denominational",1029,77,26,55.8998662,-3.5206788,13.3636363636364,75,0.48
+"114","Secondary","Armadale Academy","West Lothian","http://www.armadaleacademy.westlothian.org.uk/","Non-denominational",1150,80.1,35,55.8948308,-3.7142026,14.3570536828964,51,0.52
+"115","Secondary","Bathgate Academy","West Lothian","http://www.bathgateacademy.westlothian.org.uk","Non-denominational",1124,82.5,41,55.8984019,-3.6131273,13.6242424242424,72,0.49
+"116","Secondary","St Kentigern's Academy","West Lothian","http://www.stkentigernsacademy.westlothian.org.uk","Roman Catholic",1214,95.9,5,55.8713516,-3.6351012,12.6590198123045,112,0.42
+"117","Secondary","Broxburn Academy","West Lothian","http://www.broxburnacademy.westlothian.org.uk","Non-denominational",952,69.8,52,55.9369568,-3.4878897,13.6389684813754,61,0.5
+"118","Secondary","Linlithgow Academy","West Lothian","http://www.linlithgowacademy.westlothian.org.uk","Non-denominational",1354,98.7,55,55.9716188,-3.6125852,13.7183383991895,12,0.68
+"119","Secondary","Whitburn Academy","West Lothian","http://www.whitburnacademy.westlothian.org.uk","Non-denominational",866,67.2,25,55.8680561,-3.6796302,12.8869047619048,42,0.55
+"120","Secondary","The James Young High School","West Lothian","http://www.jyhs.westlothian.org.uk","Non-denominational",1162,82.9,20,55.880946,-3.5152231,14.0168878166466,32,0.57
+"121","Secondary","St Margaret's Academy","West Lothian","http://www.stmargaretsacademy.westlothian.org.uk","Roman Catholic",1085,74.1,48,55.8887512,-3.5228183,14.642375168691,30,0.57
+"122","Secondary","Queensferry Community High School","City of Edinburgh","http://www.queensferry.edin.sch.uk/","Non-denominational",1025,78.4,88,55.9859322,-3.3850179,13.0739795918367,126,0.41
+"123","Secondary","Boroughmuir High School","City of Edinburgh","http://www.boroughmuir.edin.sch.uk/","Non-denominational",1493,105.3,62,55.9410199,-3.2145603,14.1785375118708,9,0.7
+"124","Secondary","Broughton High School","City of Edinburgh","http://www.broughton.edin.sch.uk/","Non-denominational",1248,95.6,97,55.960676,-3.2219544,13.0543933054393,180,0.35
+"125","Secondary","Craigmount High School","City of Edinburgh","http://www.craigmount.edin.sch.uk/","Non-denominational",1316,99.6,95,55.9450959,-3.3048119,13.2128514056225,59,0.5
+"126","Secondary","Craigroyston Community High School","City of Edinburgh","http://www.craigroyston.edin.sch.uk/","Non-denominational",726,56.7,1,55.9735317,-3.2540932,12.8042328042328,331,0.15
+"127","Secondary","Drummond Community High School","City of Edinburgh","http://www.drummond.edin.sch.uk/","Non-denominational",515,46.6,73,55.9606588,-3.1894755,11.0515021459227,194,0.34
+"128","Secondary","Firrhill High School","City of Edinburgh","http://www.firrhillhighschool.org.uk/","Non-denominational",1309,94.1,47,55.9149191,-3.2364067,13.9107332624867,38,0.56
+"129","Secondary","Forrester High School","City of Edinburgh","http://forresterhighschool.org.uk/","Non-denominational",819,65,68,55.9309921,-3.2898108,12.6,333,0.13
+"130","Secondary","Gracemount High School","City of Edinburgh","http://www.gracemounthighschool.co.uk/","Non-denominational",601,56.2,17,55.9039561,-3.1512372,10.6939501779359,338,0.1
+"131","Secondary","Holy Rood RC High School","City of Edinburgh","http://www.holyrood.edin.sch.uk/","Roman Catholic",1147,88.7,83,55.9404524,-3.1437404,12.9312288613303,157,0.38
+"132","Secondary","James Gillespie's High School","City of Edinburgh","http://www.jamesgillespies.edin.sch.uk/","Non-denominational",1595,135.6,99,55.9369744,-3.1999443,11.7625368731563,23,0.61
+"133","Secondary","Leith Academy","City of Edinburgh","http://www.leith.edin.sch.uk/","Non-denominational",1005,80.5,33,55.9672915,-3.1667213,12.4844720496894,252,0.28
+"134","Secondary","Liberton High School","City of Edinburgh","http://www.liberton.edin.sch.uk","Non-denominational",849,66.4,88,55.9139831,-3.152255,12.7861445783133,222,0.32
+"135","Secondary","Portobello High School","City of Edinburgh","www.portobellohighschool.org.uk","Non-denominational",1441,102.2,69,55.9444964,-3.1132948,14.0998043052838,117,0.42
+"136","Secondary","The Royal High School","City of Edinburgh","http://www.royalhigh.edin.sch.uk/","Non-denominational",1391,97.9,93,55.9639201,-3.2843314,14.2083758937692,20,0.62
+"137","Secondary","St Augustine's High School","City of Edinburgh","http://www.st-augustines.edin.sch.uk/","Roman Catholic",954,70.6,68,55.9328041,-3.2911771,13.5127478753541,237,0.3
+"138","Secondary","St Thomas Of Aquin's High School","City of Edinburgh","http://www.st-thomas-of-aquins.org.uk/","Roman Catholic",784,63.6,72,55.9436064,-3.1976947,12.3270440251572,27,0.58
+"139","Secondary","Trinity Academy","City of Edinburgh","http://www.trinity.edin.sch.uk/","Non-denominational",979,72.7,99,55.9766399,-3.1935553,13.4662998624484,105,0.43
+"140","Secondary","Tynecastle High School","City of Edinburgh","http://tynecastlehighschool.org.uk/","Non-denominational",770,62.8,38,55.9396093,-3.2304067,12.2611464968153,262,0.27
+"141","Secondary","Currie Community High School","City of Edinburgh","http://www.curriechs.co.uk/","Non-denominational",840,59.6,59,55.8967775,-3.3194848,14.0939597315436,50,0.52
+"142","Secondary","Balerno Community High School","City of Edinburgh","http://www.balernochs.edin.sch.uk","Non-denominational",849,65.7,91,55.8868705,-3.3382543,12.9223744292237,74,0.48
+"143","Secondary","Dalkeith High School","Midlothian","http://dalkeith.mgfl.net/","Non-denominational",926,74.8,38,55.9023031,-3.0433275,12.379679144385,154,0.38
+"144","Secondary","Newbattle High School","Midlothian","http://www.newbattle.org.uk/","Non-denominational",1102,94.4,80,55.8744457,-3.0486772,11.6737288135593,288,0.24
+"145","Secondary","St David's RC High School","Midlothian","https://www.stdavidshighschool.co.uk/","Roman Catholic",737,68.4,38,55.9003916,-3.0451634,10.7748538011696,227,0.31
+"146","Secondary","Lasswade High School Centre","Midlothian","http://lasswadehsc.mgfl.net/","Non-denominational",1567,125.4,25,55.8724882,-3.1146919,12.4960127591707,78,0.47
+"147","Secondary","Penicuik High School","Midlothian","http://penicuik.mgfl.net/","Non-denominational",638,54.1,66,55.8313677,-3.2287259,11.7929759704251,265,0.27
+"148","Secondary","Beeslack Community High School","Midlothian","http://www.beeslackhigh.co.uk","Non-denominational",729,63.2,85,55.8398261,-3.2121141,11.5348101265823,169,0.36
+"149","Secondary","Musselburgh Grammar School","East Lothian","https://www.edubuzz.org/musselburghgrammar/","Non-denominational",1219,92.1,63,55.9386591,-3.0505806,13.2356134636265,209,0.33
+"150","Secondary","Dunbar Grammar School","East Lothian","http://www.edubuzz.org/dunbargrammar/","Non-denominational",1149,85,54,55.9997199,-2.5313439,13.5176470588235,178,0.35
+"151","Secondary","Knox Academy","East Lothian","http://www.ka-net.org.uk/","Non-denominational",863,75.1,75,55.9532565,-2.7872905,11.491344873502,167,0.37
+"152","Secondary","North Berwick High School","East Lothian","http://www.northberwickhigh.net/","Non-denominational",1057,75.1,93,56.0525312,-2.721882,14.0745672436751,54,0.51
+"153","Secondary","Preston Lodge High School","East Lothian","https://www.edubuzz.org/prestonlodge/","Non-denominational",1034,73.3,65,55.9586308,-2.9709228,14.106412005457,260,0.27
+"154","Secondary","Ross High School","East Lothian","http://www.edubuzz.org/rosshigh/","Non-denominational",1272,98.9,17,55.9421543,-2.954548,12.8614762386249,232,0.31
+"155","Secondary","Peebles High School","Scottish Borders","http://www.peebleshighschool.co.uk","Non-denominational",1378,87.8,100,55.645035,-3.1910889,15.6947608200456,36,0.56
+"156","Secondary","Earlston High School","Scottish Borders","http://www.earlstonps.co.uk/","Non-denominational",1083,77.5,74,55.6387799,-2.6615385,13.9741935483871,28,0.58
+"157","Secondary","Galashiels Academy","Scottish Borders","http://www.galashiels.org.uk/","Non-denominational",850,70.1,31,55.6127928,-2.8128227,12.1255349500713,172,0.36
+"158","Secondary","Selkirk High School","Scottish Borders","http://www.selkirkhighschool.org.uk/","Non-denominational",426,34.7,79,55.5491054,-2.8339029,12.2766570605187,230,0.31
+"159","Secondary","Hawick High School","Scottish Borders","http://hawickhighschool.co.uk/","Non-denominational",755,64.4,72,55.4215564,-2.794245,11.723602484472,183,0.35
+"160","Secondary","Jedburgh Grammar School","Scottish Borders","https://www.jedburghgs.com/","Non-denominational",380,20.1,36,55.4783531,-2.5453336,18.9054726368159,296,0.23
+"161","Secondary","Kelso High School","Scottish Borders","http://www.kelsohighschool.org.uk/","Non-denominational",591,46.2,68,55.6099802,-2.4377738,12.7922077922078,236,0.3
+"162","Secondary","Berwickshire High School","Scottish Borders","https://bhs.scot/","Non-denominational",577,52.2,37,55.7733671,-2.3563264,11.0536398467433,246,0.29
+"163","Secondary","Eyemouth High School","Scottish Borders","http://eyemouthhigh.org.uk/","Non-denominational",493,42.8,57,55.8625306,-2.0891156,11.518691588785,299,0.23
+"164","Secondary","Alloa Academy","Clackmannanshire","http://alloaacademy.com/","Non-denominational",761,63.5,4,56.1088878,-3.7936069,11.9842519685039,221,0.32
+"165","Secondary","Lornshill Academy","Clackmannanshire","http://lornshillacademy.org.uk/","Non-denominational",1047,82.4,71,56.1333729,-3.8146184,12.7063106796116,317,0.2
+"166","Secondary","Alva Academy","Clackmannanshire","http://alvaacademy.com/","Non-denominational",938,73.7,42,56.1505494,-3.7914324,12.7272727272727,145,0.38
+"167","Secondary","McLaren High School","Stirling","http://www.mclarenhigh.co.uk/","Non-denominational",649,51.6,94,56.238879,-4.2125234,12.577519379845,14,0.67
+"168","Secondary","Dunblane High School","Stirling","http://www.dunblanehighschool.org.uk/","Non-denominational",982,68.7,96,56.1827331,-3.9803024,14.2940320232897,15,0.66
+"169","Secondary","Balfron High School","Stirling","https://blogs.glowscotland.org.uk/st/balfronhighschool/","Non-denominational",894,68.8,85,56.0724345,-4.3291221,12.9941860465116,19,0.62
+"170","Secondary","Bannockburn High School","Stirling","http://www.bannockburnhigh.org/","Non-denominational",503,43.4,58,56.0962587,-3.9215695,11.5898617511521,86,0.46
+"171","Secondary","Stirling High School","Stirling","http://www.stirlinghigh.co.uk/","Non-denominational",1060,77.1,80,56.1049087,-3.9459679,13.7483787289235,162,0.37
+"172","Secondary","St Modan's High School","Stirling","http://stmodans.co.uk/","Roman Catholic",1018,80.6,28,56.1200367,-3.906507,12.6302729528536,161,0.37
+"173","Secondary","Wallace High School","Stirling","http://www.wallacehigh.org.uk/","Non-denominational",1167,92.2,100,56.1408371,-3.9281544,12.6572668112798,77,0.48
+"174","Secondary","Denny High School","Falkirk","http://www.dennyhigh.falkirk.sch.uk","Non-denominational",1390,116.7,92,56.0204813,-3.8969118,11.91088260497,150,0.38
+"175","Secondary","Falkirk High School","Falkirk","http://www.falkirk.falkirk.sch.uk","Non-denominational",1164,97.1,90,55.9976758,-3.8064751,11.9876416065911,116,0.42
+"176","Secondary","Graeme High School","Falkirk","http://www.graeme.falkirk.sch.uk/","Non-denominational",1133,91.6,47,55.9978572,-3.7635885,12.3689956331878,113,0.42
+"177","Secondary","St Mungo's RC High School","Falkirk","http://www.stmungoshighschool.co.uk/","Roman Catholic",1229,100.4,11,56.0068307,-3.792484,12.2410358565737,125,0.41
+"178","Secondary","Braes High School","Falkirk","https://blogs.glowscotland.org.uk/fa/schoolwebsite/","Non-denominational",1051,85.9,86,55.9809787,-3.7352509,12.2351571594878,31,0.57
+"179","Secondary","Grangemouth High School","Falkirk","http://www.grangemouth.falkirk.sch.uk","Non-denominational",816,78.6,64,56.0037559,-3.7142686,10.381679389313,274,0.26
+"180","Secondary","Larbert High School","Falkirk","http://www.larberthigh.com/","Non-denominational",2048,156,64,56.0219559,-3.8090056,13.1282051282051,91,0.45
+"181","Secondary","Bo'ness Academy","Falkirk","http://www.bonessacademy.com/","Non-denominational",836,74.2,79,56.0097127,-3.5986139,11.266846361186,212,0.33
+"182","Secondary","Douglas Ewart High School","Dumfries and Galloway","http://www.dehs.info","Non-denominational",595,44,81,54.9600826,-4.4898871,13.5227272727273,287,0.24
+"183","Secondary","Stranraer Academy","Dumfries and Galloway","http://www.stranraeracademy.org.uk/index.html","Non-denominational",986,65.7,42,54.9055403,-5.0036723,15.0076103500761,281,0.25
+"184","Secondary","Castle Douglas High School","Dumfries and Galloway","http://www.dumgal.gov.uk/article/15536/Castle-Douglas-High-School","Non-denominational",491,39,32,54.9485799,-3.9301377,12.5897435897436,147,0.38
+"185","Secondary","Dalbeattie High School","Dumfries and Galloway","http://www.dalbeattiehigh.org.uk/","Non-denominational",351,30.8,66,54.9306409,-3.8307612,11.3961038961039,118,0.41
+"186","Secondary","Kirkcudbright Academy","Dumfries and Galloway","http://www.kirkcudbrightacademy.website/index.html","Non-denominational",421,35,42,54.8353725,-4.0579319,12.0285714285714,115,0.42
+"187","Secondary","Dumfries Academy","Dumfries and Galloway","http://www.dumfriesacademy.org/","Non-denominational",617,43.6,6,55.0720105,-3.6111697,14.151376146789,238,0.3
+"188","Secondary","Dumfries High School","Dumfries and Galloway","http://www.dumfrieshighschool.co.uk/","Non-denominational",756,52.8,49,55.0745287,-3.594652,14.3181818181818,71,0.49
+"189","Secondary","Sanquhar Academy","Dumfries and Galloway","https://en-gb.facebook.com/SanquharAcademy/","Non-denominational",250,25.7,61,55.3722274,-3.9313174,9.72762645914397,277,0.26
+"190","Secondary","Wallace Hall Academy","Dumfries and Galloway","https://www.wallacehall.co.uk/","Non-denominational",526,40.7,47,55.2424201,-3.7572592,12.9238329238329,53,0.51
+"191","Secondary","St Joseph's College","Dumfries and Galloway","https://www.stjosephscollege.co.uk/","Roman Catholic",955,62.6,24,55.0632368,-3.6004353,15.2555910543131,68,0.49
+"192","Secondary","Annan Academy","Dumfries and Galloway","http://annanacademyorguk.ipage.com/index.html","Non-denominational",935,62.9,40,54.9847974,-3.2603155,14.8648648648649,275,0.26
+"193","Secondary","Langholm Academy","Dumfries and Galloway","https://www.langholmandcanonbieschools.dumgal.sch.uk/","Non-denominational",240,22.4,71,55.1538361,-3.0052404,10.7142857142857,225,0.31
+"194","Secondary","Lockerbie Academy","Dumfries and Galloway","http://www.lockerbieacademy.dumgal.sch.uk/","Non-denominational",787,54.9,48,55.1289834,-3.3587349,14.3351548269581,259,0.27
+"195","Secondary","Moffat Academy","Dumfries and Galloway","http://www.moffat.dumgal.sch.uk/","Non-denominational",179,10.3,74,55.3290453,-3.4378769,17.378640776699,18,0.65
+"196","Secondary","Kirkwall Grammar School","Orkney Islands","http://www.kgsorkney.com/","Non-denominational",866,75.9,64,58.9787942,-2.9471656,11.4097496706192,193,0.34
+"197","Secondary","Stromness Academy","Orkney Islands","http://www.stromnessacademy.org.uk/","Non-denominational",351,37.2,71,58.96956,-3.2848553,9.43548387096774,187,0.35
+"198","Secondary","Brae High School","Shetland Islands","http://www.brae.shetland.sch.uk/","Non-denominational",141,9.6,75,60.3964295,-1.3516172,14.6875,266,0.27
+"199","Secondary","Anderson High School","Shetland Islands","http://www.anderson.shetland.sch.uk/","Non-denominational",1011,83.1,55,60.1494683,-1.1373481,12.1660649819495,134,0.39
+"200","Secondary","Sir E Scott School","Na h-Eileanan an Iar","https://blogs.glowscotland.org.uk/es/sess/","Non-denominational",90,7.7,54,57.8998374,-6.8113891,11.6883116883117,276,0.26
+"201","Secondary","The Nicolson Institute","Na h-Eileanan an Iar","http://www.nicolsoninstitute.org/","Non-denominational",1058,84.2,28,58.2091715,-6.3801376,12.5653206650831,256,0.27
+"202","Secondary","Sgoil Lionacleit","Na h-Eileanan an Iar","http://www.sgoillionacleit.org.uk/","Non-denominational",282,33.4,52,57.424934,-7.3647543,8.44311377245509,336,0.11
+"203","Secondary","Islay High School","Argyll and Bute","http://www.islay.argyll-bute.sch.uk/","Non-denominational",189,23.1,39,55.7553584,-6.2913891,8.18181818181818,46,0.53
+"204","Secondary","Campbeltown Grammar School","Argyll and Bute","https://blogs.glowscotland.org.uk/ab/campbeltowngs/","Non-denominational",391,35.9,56,55.4179394,-5.6039484,10.891364902507,298,0.23
+"205","Secondary","Dunoon Grammar School","Argyll and Bute","http://www.dunoongrammar.argyll-bute.sch.uk/","Non-denominational",742,66.1,43,55.9624473,-4.9241769,11.2254160363086,188,0.34
+"206","Secondary","Oban High School","Argyll and Bute","http://www.obanhigh.argyll-bute.sch.uk/","Non-denominational",978,75.5,35,56.4059557,-5.4671093,12.953642384106,197,0.34
+"207","Secondary","Tarbert Academy","Argyll and Bute","http://www.tarbert.argyll-bute.sch.uk/","Non-denominational",109,7,63,55.8618414,-5.4131743,15.5714285714286,43,0.54
+"208","Secondary","Tobermory High School","Argyll and Bute","http://www.tobermory.argyll-bute.sch.uk","Non-denominational",76,5.5,69,56.6242108,-6.0687474,13.8181818181818,213,0.32
+"209","Secondary","Lochgilphead High School","Argyll and Bute","http://www.ljc.ea.argyll-bute.sch.uk","Non-denominational",204,13.5,39,56.0300013,-5.4274235,15.1111111111111,316,0.2
+"210","Secondary","Rothesay Academy","Argyll and Bute","http://www.rothesayacademy.argyll-bute.sch.uk/","Non-denominational",246,13.8,28,55.8253855,-5.0588147,17.8260869565217,267,0.27
+"211","Secondary","Arran High School","North Ayrshire","http://arranhigh.co.uk","Non-denominational",223,29.3,53,55.5302726,-5.1334013,7.61092150170648,63,0.49
+"212","Secondary","St Matthew's Academy","North Ayrshire","http://saintmatthewsacademy.com/home/","Roman Catholic",1265,96.5,63,55.6431532,-4.7883122,13.1088082901554,76,0.48
+"213","Secondary","Ardrossan Academy","North Ayrshire","http://www.ardrossanacademy.co.uk","Non-denominational",811,72,63,55.6444546,-4.8002302,11.2638888888889,198,0.34
+"214","Secondary","Greenwood Academy","North Ayrshire","http://www.greenwoodacademy.co.uk/contactus/","Non-denominational",1367,101.6,78,55.6085939,-4.632921,13.4547244094488,196,0.34
+"215","Secondary","Irvine Royal Academy","North Ayrshire","http://www.irvineroyal.co.uk/","Non-denominational",760,61.6,59,55.628101,-4.6755844,12.3376623376623,271,0.26
+"216","Secondary","Garnock Community Campus","North Ayrshire","http://www.garnockacademy.com/","Non-denominational",159,11.2,26,55.7396362,-4.6708056,14.1964285714286,215,0.32
+"217","Secondary","Largs Academy","North Ayrshire","http://www.largs.n-ayrshire.sch.uk","Non-denominational",1021,80.3,45,55.8009758,-4.8541175,12.7148194271482,60,0.5
+"218","Secondary","Auchenharvie Academy","North Ayrshire","http://www.auchenharvieacademy.com/","Non-denominational",669,61.7,35,55.6380754,-4.768436,10.8427876823339,283,0.25
+"219","Secondary","Kilwinning Academy","North Ayrshire","http://www.kilwinningacademy.com/","Non-denominational",899,78.9,58,55.6565907,-4.7040484,11.3941698352345,239,0.3
+"220","Secondary","Loudoun Academy","East Ayrshire","https://blogs.glowscotland.org.uk/ea/loudounacademy2016/","Non-denominational",908,80.8,63,55.6079715,-4.3817469,11.2376237623762,210,0.33
+"221","Secondary","Grange Academy","East Ayrshire","https://blogs.glowscotland.org.uk/ea/eastayrshiregrangeacademymain2017/","Non-denominational",1265,95.7,93,55.607492,-4.5130954,13.2183908045977,151,0.38
+"222","Secondary","St Joseph's Academy","East Ayrshire","https://blogs.glowscotland.org.uk/ea/stjosephsacademy/","Roman Catholic",629,49.8,48,55.6161969,-4.4827828,12.6305220883534,175,0.36
+"223","Secondary","Stewarton Academy","East Ayrshire","https://blogs.glowscotland.org.uk/ea/stewartonacademysite2016/","Non-denominational",828,63.2,67,55.6828713,-4.5012077,13.1012658227848,170,0.36
+"224","Secondary","Ayr Academy","South Ayrshire","http://www.ayr.sayr.sch.uk","Non-denominational",620,54.5,46,55.4595087,-4.6098887,11.3761467889908,304,0.23
+"225","Secondary","Belmont Academy","South Ayrshire","http://www.belmont.sayr.sch.uk","Non-denominational",1206,90.4,30,55.4449624,-4.6188583,13.3407079646018,83,0.46
+"226","Secondary","Queen Margaret Academy","South Ayrshire","http://www.queenmargaret.sayr.sch.uk/","Roman Catholic",630,61,16,55.44117,-4.6024001,10.327868852459,127,0.41
+"227","Secondary","Girvan Academy","South Ayrshire","http://www.girvanacademy.sayr.sch.uk","Non-denominational",520,52.6,34,55.239538,-4.8452624,9.88593155893536,235,0.3
+"228","Secondary","Carrick Academy","South Ayrshire","https://carrickacademysayr.weebly.com/","Non-denominational",386,40.6,42,55.3510602,-4.6959817,9.50738916256158,158,0.37
+"229","Secondary","Prestwick Academy","South Ayrshire","http://www.prestwick.sayr.sch.uk/","Non-denominational",1219,92.7,64,55.5028592,-4.6040483,13.1499460625674,99,0.44
+"230","Secondary","Marr College","South Ayrshire","http://www.marr.sayr.sch.uk/","Non-denominational",1067,77.8,90,55.5488731,-4.6454772,13.7146529562982,70,0.49
+"231","Secondary","Kyle Academy","South Ayrshire","http://www.kyle.sayr.sch.uk/","Non-denominational",837,67.2,79,55.4574684,-4.5993456,12.4553571428571,88,0.45
+"232","Secondary","Doon Academy","East Ayrshire","https://blogs.glowscotland.org.uk/ea/DoonAcademy/","Non-denominational",250,34.8,18,55.324219,-4.4009895,7.18390804597701,294,0.24
+"233","Secondary","St Peter the Apostle High School","West Dunbartonshire","http://stpetertheapostle.co.uk/","Roman Catholic",1553,109.1,9,55.9147769,-4.3984058,14.2346471127406,199,0.34
+"234","Secondary","Dumbarton Academy","West Dunbartonshire","http://www.dumbarton-academy.com/","Non-denominational",672,56.8,79,55.9465597,-4.5567825,11.830985915493,184,0.35
+"235","Secondary","Our Lady & St Patrick's High School","West Dunbartonshire","https://sites.google.com/ourcloud.buzz/olsp-highschool/home","Roman Catholic",1029,83.1,12,55.9601284,-4.5526532,12.3826714801444,111,0.42
+"236","Secondary","Hermitage Academy","Argyll and Bute","http://www.hermitageacademy.argyll-bute.sch.uk/","Non-denominational",1263,94.6,90,55.9950092,-4.7048251,13.3509513742072,81,0.46
+"237","Secondary","Vale Of Leven Academy","West Dunbartonshire","https://sites.google.com/ourcloud.buzz/valeoflevenacademy","Non-denominational",980,86.4,24,55.9803366,-4.5809828,11.3425925925926,310,0.22
+"238","Secondary","Clydebank High School","West Dunbartonshire","http://www.clydebankhigh.org.uk/","Non-denominational",1174,91,33,55.9117789,-4.4129107,12.9010989010989,191,0.34
+"239","Secondary","Bearsden Academy","East Dunbartonshire","http://www.bearsdenacademy.e-dunbarton.sch.uk/","Non-denominational",1209,91.9,77,55.9276672,-4.346998,13.1556039173014,2,0.8
+"240","Secondary","Douglas Academy","East Dunbartonshire","http://www.douglas.e-dunbarton.sch.uk/","Non-denominational",1035,83.8,89,55.9477554,-4.3464678,12.3508353221957,5,0.75
+"241","Secondary","Boclair Academy","East Dunbartonshire","http://www.boclair.e-dunbarton.sch.uk","Non-denominational",1028,84.3,90,55.9163862,-4.3056984,12.1945432977461,16,0.66
+"242","Secondary","Kirkintilloch High School","East Dunbartonshire","http://www.kirkintilloch.e-dunbarton.sch.uk","Non-denominational",736,63.5,81,55.9360568,-4.1323612,11.5905511811024,133,0.4
+"243","Secondary","St Ninian's High School","East Dunbartonshire","http://www.st-ninians.e-dunbarton.sch.uk","Roman Catholic",869,80.9,37,55.9362388,-4.1626319,10.7416563658838,84,0.46
+"244","Secondary","Lenzie Academy","East Dunbartonshire","http://www.lenzieacademy.e-dunbarton.sch.uk","Non-denominational",1323,103.4,61,55.9274606,-4.1599496,12.7949709864603,35,0.56
+"245","Secondary","Bishopbriggs Academy","East Dunbartonshire","http://www.bishopbriggs.e-dunbarton.sch.uk/","Non-denominational",1252,106.4,78,55.9078132,-4.1990689,11.7669172932331,10,0.69
+"246","Secondary","Turnbull High School","East Dunbartonshire","http://www.turnbull.e-dunbarton.sch.uk","Roman Catholic",657,60.6,85,55.9088675,-4.2403073,10.8415841584158,17,0.65
+"247","Secondary","Chryston High School","North Lanarkshire","http://www.northlanarkshire.gov.uk/index.aspx?articleid=5917","Non-denominational",956,74.1,40,55.9041251,-4.1044702,12.9014844804319,106,0.43
+"248","Secondary","Greenfaulds High School","North Lanarkshire","http://www.greenfaulds.n-lanark.sch.uk/","Non-denominational",1417,113.2,53,55.9357095,-4.0077193,12.517667844523,100,0.44
+"249","Secondary","Our Lady's High School - Cumbernauld","North Lanarkshire","https://blogs.glowscotland.org.uk/nl/olhscumbernauld/","Roman Catholic",884,61.8,90,55.9434624,-4.0027703,14.3042071197411,58,0.5
+"250","Secondary","Kilsyth Academy","North Lanarkshire","http://www.northlanarkshire.gov.uk/index.aspx?articleid=5924","Non-denominational",471,42.2,62,55.980038,-4.0659549,11.1611374407583,92,0.45
+"251","Secondary","St Maurice's High School","North Lanarkshire","http://www.st-maurices.n-lanark.sch.uk","Roman Catholic",971,68.7,90,55.9420209,-4.0320956,14.1339155749636,97,0.44
+"252","Secondary","Springburn Academy","Glasgow City","http://www.springburnacademy.glasgow.sch.uk","Non-denominational",815,66.6,2,55.8859024,-4.2275821,12.2372372372372,325,0.18
+"253","Secondary","All Saints Secondary School","Glasgow City","http://www.allsaints-sec.glasgow.sch.uk","Roman Catholic",874,73.2,10,55.8861754,-4.20294,11.9398907103825,166,0.37
+"254","Secondary","Bellahouston Academy","Glasgow City","http://www.bellahoustonacademy.glasgow.sch.uk/","Non-denominational",1073,84.9,38,55.8481524,-4.3004892,12.6383981154299,165,0.37
+"255","Secondary","St Paul's High School","Glasgow City","http://www.st-paulshigh.glasgow.sch.uk/","Roman Catholic",1024,80.2,25,55.824408,-4.3376131,12.7680798004988,292,0.24
+"256","Secondary","Cleveden Secondary School","Glasgow City","http://www.clevedensecondary.com/","Non-denominational",791,75.1,98,55.8865142,-4.3031909,10.5326231691079,242,0.3
+"257","Secondary","Glasgow Gaelic School","Glasgow City","http://www.glasgowgaelic.glasgow.sch.uk/","Non-denominational",457,26.4,22,55.8645231,-4.2799771,17.3106060606061,40,0.55
+"258","Secondary","Eastbank Academy","Glasgow City","http://www.eastbankacademy.glasgow.sch.uk/","Non-denominational",991,78.7,10,55.8504326,-4.1629736,12.5921219822109,332,0.14
+"259","Secondary","Govan High School","Glasgow City","http://www.govanhigh.glasgow.sch.uk","Non-denominational",558,68.6,10,55.8579883,-4.3332918,8.13411078717201,329,0.16
+"260","Secondary","Castlemilk High School","Glasgow City","http://www.castlemilkhigh.glasgow.sch.uk/","Non-denominational",452,41.8,2,55.8012676,-4.2296378,10.8133971291866,160,0.37
+"261","Secondary","Hillhead High School","Glasgow City","https://blogs.glowscotland.org.uk/gc/hillheadhigh/","Non-denominational",1043,81.6,80,55.8744448,-4.2853227,12.781862745098,29,0.57
+"262","Secondary","Hillpark Secondary School","Glasgow City","http://www.hillpark-sec.glasgow.sch.uk/","Non-denominational",1092,100.3,48,55.8154166,-4.2992136,10.8873379860419,308,0.22
+"263","Secondary","Holyrood Secondary School","Glasgow City","http://www.holyrood-sec.glasgow.sch.uk/","Roman Catholic",2226,155,30,55.8326759,-4.2524503,14.3612903225806,136,0.39
+"264","Secondary","Hyndland Secondary School","Glasgow City","http://www.hyndland-sec.glasgow.sch.uk","Non-denominational",1053,82,98,55.8770237,-4.3098869,12.8414634146341,22,0.61
+"265","Secondary","King's Park Secondary School","Glasgow City","http://www.kingspark-sec.glasgow.sch.uk/","Non-denominational",906,83.8,64,55.8137588,-4.2479574,10.8114558472554,190,0.34
+"266","Secondary","Knightswood Secondary School","Glasgow City","http://www.knightswood-sec.glasgow.sch.uk/","Non-denominational",1228,96,39,55.890576,-4.3375285,12.7916666666667,257,0.27
+"267","Secondary","Lochend Community High School","Glasgow City","http://www.lochendcommunityhigh.glasgow.sch.uk","Non-denominational",468,49.4,4,55.8684394,-4.1077786,9.47368421052632,303,0.23
+"268","Secondary","Lourdes Secondary School","Glasgow City","https://blogs.glowscotland.org.uk/gc/LourdesSecondarySchool/our-school/welcome-to-our-school/","Roman Catholic",1459,125.2,17,55.8443177,-4.3408049,11.6533546325879,192,0.34
+"269","Secondary","Notre Dame High School","Glasgow City","https://blogs.glowscotland.org.uk/gc/ndhs/","Roman Catholic",788,64.4,94,55.8782264,-4.2989428,12.2360248447205,24,0.6
+"270","Secondary","Rosshall Academy","Glasgow City","http://www.rosshallacademy.glasgow.sch.uk/","Non-denominational",1241,104.7,36,55.84214,-4.3630363,11.8529130850048,273,0.26
+"271","Secondary","Shawlands Academy","Glasgow City","http://www.shawlandsacademy.glasgow.sch.uk/","Non-denominational",1467,108.2,37,55.8310309,-4.2836373,13.5582255083179,140,0.39
+"272","Secondary","Smithycroft Secondary School","Glasgow City","http://www.smithycroft-sec.glasgow.sch.uk/","Non-denominational",832,66.7,32,55.8712399,-4.1837117,12.4737631184408,309,0.22
+"273","Secondary","St Andrew's Secondary School","Glasgow City","http://www.st-andrews-sec.glasgow.sch.uk/","Roman Catholic",1839,125,11,55.8608409,-4.1690334,14.712,185,0.35
+"274","Secondary","St Margaret Mary's Secondary School","Glasgow City","http://www.st-margaretmarys-sec.glasgow.sch.uk","Roman Catholic",407,37.9,1,55.8029649,-4.2376175,10.7387862796834,255,0.28
+"275","Secondary","St Mungo's Academy","Glasgow City","http://www.st-mungosacademy.glasgow.sch.uk","Roman Catholic",979,78.3,2,55.8540426,-4.2206131,12.5031928480204,291,0.24
+"276","Secondary","St Roch's Secondary School","Glasgow City","http://www.st-rochs-sec.glasgow.sch.uk/","Roman Catholic",681,69.8,5,55.8687383,-4.2314579,9.75644699140401,250,0.28
+"277","Secondary","St Thomas Aquinas Secondary School","Glasgow City","https://blogs.glowscotland.org.uk/gc/stthomasaquinassecondaryschoolglasgow/","Roman Catholic",1122,88.4,87,55.8808873,-4.3351712,12.6923076923077,139,0.39
+"278","Secondary","Whitehill Secondary School","Glasgow City","https://blogs.glowscotland.org.uk/gc/whitehillsecondary/","Non-denominational",603,63.8,44,55.8608209,-4.2125304,9.45141065830721,315,0.21
+"279","Secondary","Trinity High School","South Lanarkshire","http://www.trinity.s-lanark.sch.uk/","Roman Catholic",1186,85.3,27,55.8229574,-4.1884443,13.9038686987104,146,0.38
+"280","Secondary","Bannerman High School","Glasgow City","http://www.bannermanhigh.glasgow.sch.uk/","Non-denominational",1226,98.2,59,55.8489516,-4.122634,12.4847250509165,152,0.38
+"281","Secondary","Cathkin High School","South Lanarkshire","http://www.cathkin.s-lanark.sch.uk/","Non-denominational",1006,91.5,76,55.8128276,-4.1814273,10.9945355191257,135,0.39
+"282","Secondary","Stonelaw High School","South Lanarkshire","http://www.stonelaw.s-lanark.sch.uk/","Non-denominational",1248,91.4,86,55.8210288,-4.196302,13.6542669584245,179,0.35
+"283","Secondary","John Paul Academy","Glasgow City","http://www.johnpaulacademy.glasgow.sch.uk/","Roman Catholic",919,75.6,7,55.9041447,-4.2961248,12.1560846560847,229,0.31
+"284","Secondary","Drumchapel High School","Glasgow City","http://www.drumchapelhigh.glasgow.sch.uk/","Non-denominational",614,72.2,3,55.9139645,-4.3670216,8.50415512465374,312,0.22
+"285","Secondary","Jordanhill School","Glasgow City","http://www.jordanhill.glasgow.sch.uk/","Non-denominational",462,23.6,96,55.8848837,-4.3339081,19.5762711864407,1,0.89
+"286","Secondary","St Andrew's High School","North Lanarkshire","http://www.st-andrewshigh.n-lanark.sch.uk","Roman Catholic",1281,95.2,19,55.8473919,-4.0319273,13.4558823529412,205,0.33
+"287","Secondary","Airdrie Academy","North Lanarkshire","https://blogs.glowscotland.org.uk/nl/airdrieacademy/","Non-denominational",1053,79.7,16,55.8755426,-3.9815892,13.2120451693852,177,0.36
+"288","Secondary","Caldervale High School","North Lanarkshire","http://www.northlanarkshire.gov.uk/index.aspx?articleid=5915","Non-denominational",1099,86.2,72,55.8656504,-3.9391497,12.7494199535963,241,0.3
+"289","Secondary","St Margaret's High School","North Lanarkshire","http://www.stmargaretshigh.org.uk/","Roman Catholic",1147,87.2,6,55.8706518,-3.9688407,13.1536697247706,218,0.32
+"290","Secondary","Coatbridge High School","North Lanarkshire","http://www.coatbridgehigh.org.uk/","Non-denominational",1063,83.1,35,55.8635294,-4.017397,12.791817087846,200,0.34
+"291","Secondary","St Ambrose High School","North Lanarkshire","http://www.st-ambrose.n-lanark.sch.uk/","Roman Catholic",1446,101,64,55.8685033,-4.053223,14.3168316831683,67,0.49
+"292","Secondary","Bellshill Academy","North Lanarkshire","http://www.northlanarkshire.gov.uk/index.aspx?articleid=5911","Non-denominational",717,56.2,20,55.8196798,-4.0180953,12.7580071174377,231,0.31
+"293","Secondary","Braidhurst High School","North Lanarkshire","http://www.braidhurst.n-lanark.sch.uk/","Non-denominational",578,46.6,3,55.8012547,-3.998427,12.4034334763948,261,0.27
+"294","Secondary","Dalziel High School","North Lanarkshire","http://www.dalzielhigh.org.uk/","Non-denominational",974,76.8,87,55.7866447,-3.9998976,12.6822916666667,49,0.52
+"295","Secondary","Our Lady's High School - Motherwell","North Lanarkshire","http://www.ourladyshighschool.co.uk/","Roman Catholic",805,61,96,55.7770428,-3.9762528,13.1967213114754,124,0.41
+"296","Secondary","Calderhead High School","North Lanarkshire","http://www.northlanarkshire.gov.uk/index.aspx?articleid=5914","Non-denominational",540,47.1,54,55.8206478,-3.7972261,11.4649681528662,327,0.17
+"297","Secondary","St Aidan's High School","North Lanarkshire","http://www.st-aidanshigh.n-lanark.sch.uk/","Roman Catholic",958,68.4,39,55.7800205,-3.9176551,14.0058479532164,130,0.4
+"298","Secondary","Coltness High School","North Lanarkshire","http://www.coltnesshigh.n-lanark.sch.uk/","Non-denominational",924,72.8,31,55.7815025,-3.9055765,12.6923076923077,208,0.33
+"299","Secondary","Clyde Valley High School","North Lanarkshire","http://www.northlanarkshire.gov.uk/index.aspx?articleid=5918","Non-denominational",855,69.1,11,55.7578897,-3.9168649,12.3733719247467,326,0.17
+"300","Secondary","Cardinal Newman High School","North Lanarkshire","http://www.cardinalnewman.n-lanark.sch.uk/","Roman Catholic",861,64.3,83,55.8165245,-4.0355851,13.3903576982893,248,0.28
+"301","Secondary","Taylor High School","North Lanarkshire","http://www.taylor.n-lanark.sch.uk/","Roman Catholic",954,70.8,69,55.8081854,-3.9749565,13.4745762711864,203,0.33
+"302","Secondary","Brannock High School","North Lanarkshire","http://www.brannock.n-lanark.sch.uk/","Non-denominational",562,55,69,55.8108774,-3.9594849,10.2181818181818,306,0.22
+"303","Secondary","St Andrew's and St Bride's High School","South Lanarkshire","http://www.st-a-and-st-b.s-lanark.sch.uk/","Roman Catholic",1643,120.1,65,55.7620773,-4.1666219,13.6802664446295,39,0.55
+"304","Secondary","Hamilton Grammar School","South Lanarkshire","http://www.hamilton.s-lanark.sch.uk/","Non-denominational",1327,106.2,51,55.7740066,-4.0459001,12.4952919020716,122,0.41
+"305","Secondary","Holy Cross High School","South Lanarkshire","http://www.holycross.s-lanark.sch.uk","Roman Catholic",1432,102.3,7,55.7857313,-4.0557965,13.9980449657869,69,0.49
+"306","Secondary","St John Ogilvie High School","South Lanarkshire","http://www.johnogilvie.s-lanark.sch.uk/","Roman Catholic",1067,82.7,32,55.7797306,-4.0780762,12.9020556227328,168,0.36
+"307","Secondary","Larkhall Academy","South Lanarkshire","http://www.larkhall.s-lanark.sch.uk/","Non-denominational",1225,110.8,61,55.7339612,-3.9739275,11.0559566787004,176,0.36
+"308","Secondary","Uddingston Grammar School","South Lanarkshire","http://www.uddingston.s-lanark.sch.uk/","Non-denominational",1330,109.7,94,55.8228902,-4.0921426,12.1239744758432,109,0.43
+"309","Secondary","Calderglen High School","South Lanarkshire","http://www.calderglen.s-lanark.sch.uk/","Non-denominational",1347,98.4,60,55.7591884,-4.1504913,13.6890243902439,129,0.4
+"310","Secondary","Calderside Academy","South Lanarkshire","http://www.calderside.s-lanark.sch.uk/","Non-denominational",1269,112.2,11,55.791923,-4.093608,11.3101604278075,311,0.22
+"311","Secondary","Duncanrig Secondary School","South Lanarkshire","http://www.duncanrig.s-lanark.sch.uk/","Non-denominational",1768,141.6,40,55.7597039,-4.2050133,12.4858757062147,96,0.44
+"312","Secondary","Strathaven Academy","South Lanarkshire","http://www.strathaven.s-lanark.sch.uk/index.html","Non-denominational",1003,75.5,83,55.6764423,-4.0705889,13.2847682119205,21,0.62
+"313","Secondary","Biggar High School","South Lanarkshire","http://www.biggar-pri.s-lanark.sch.uk/","Non-denominational",660,56.9,80,55.6208323,-3.5220512,11.5992970123023,107,0.43
+"314","Secondary","Carluke High School","South Lanarkshire","http://www.carluke-highschool.org.uk/","Non-denominational",1091,91.7,9,55.7355971,-3.8246067,11.8974918211559,114,0.42
+"315","Secondary","Lanark Grammar School","South Lanarkshire","http://www.lanark.s-lanark.sch.uk/","Non-denominational",1186,114.3,77,55.6691756,-3.7713302,10.3762029746282,202,0.33
+"316","Secondary","Lesmahagow High School","South Lanarkshire","http://www.lesmahagow.s-lanark.sch.uk/","Non-denominational",580,58.2,74,55.6433711,-3.8872594,9.96563573883162,144,0.38
+"317","Secondary","Eastwood High School","East Renfrewshire","http://www.ea.e-renfrew.sch.uk/eastwood/","Non-denominational",1185,103.1,90,55.7872296,-4.3276536,11.4936954413191,11,0.68
+"318","Secondary","Woodfarm High School","East Renfrewshire","https://blogs.glowscotland.org.uk/er/Woodfarm/","Non-denominational",694,69.8,67,55.8034803,-4.3107632,9.94269340974212,4,0.78
+"319","Secondary","Williamwood High School","East Renfrewshire","http://www.williamwood.e-renfrew.sch.uk/","Non-denominational",1648,131.4,95,55.7761743,-4.2757077,12.5418569254186,8,0.73
+"320","Secondary","Mearns Castle High School","East Renfrewshire","http://www.ea.e-renfrew.sch.uk/mearnscastle/","Non-denominational",1422,116.9,98,55.7697817,-4.30668,12.1642429426861,7,0.73
+"321","Secondary","St Ninian's High School","East Renfrewshire","http://www.ea.e-renfrew.sch.uk/stninians/","Roman Catholic",1899,145.5,54,55.7993299,-4.3020449,13.0515463917526,3,0.79
+"322","Secondary","St Benedict's High School","Renfrewshire","http://www.st-benedictshigh.renfrewshire.sch.uk/","Roman Catholic",709,62.3,85,55.8452114,-4.5121972,11.3804173354735,181,0.35
+"323","Secondary","St Luke's High School","East Renfrewshire","http://www.ea.e-renfrew.sch.uk/stlukes/","Roman Catholic",652,64,72,55.789885,-4.3858719,10.1875,123,0.41
+"324","Secondary","Barrhead High School","East Renfrewshire","http://www.barrhead.e-renfrew.sch.uk/","Non-denominational",627,70.6,22,55.8006043,-4.3781676,8.88101983002833,41,0.55
+"325","Secondary","Park Mains High School","Renfrewshire","http://parkmains.com/","Non-denominational",1440,102.8,50,55.9028074,-4.4588936,14.0077821011673,64,0.49
+"326","Secondary","Johnstone High School","Renfrewshire","http://www.johnstonehigh.renfrewshire.sch.uk/","Non-denominational",921,75.6,66,55.8229964,-4.5257465,12.1825396825397,182,0.35
+"327","Secondary","Linwood High School","Renfrewshire","http://www.linwoodhigh.renfrewshire.sch.uk/","Non-denominational",430,41.3,30,55.84936,-4.5098277,10.4116222760291,240,0.3
+"328","Secondary","Paisley Grammar School","Renfrewshire","http://www.paisleygrammar.com/","Non-denominational",1008,80.6,3,55.8464213,-4.4114939,12.5062034739454,137,0.39
+"329","Secondary","Gleniffer High School","Renfrewshire","http://www.glenifferhigh.renfrewshire.sch.uk/","Non-denominational",1097,87.9,69,55.8259723,-4.4583361,12.4800910125142,141,0.39
+"330","Secondary","Castlehead High School","Renfrewshire","http://www.castleheadhigh.renfrewshire.sch.uk/","Non-denominational",765,65.6,12,55.8389299,-4.433183,11.6615853658537,90,0.45
+"331","Secondary","St Andrew's Academy","Renfrewshire","http://www.st-andrews.renfrewshire.sch.uk/","Roman Catholic",1465,107.5,83,55.8307875,-4.3921201,13.6279069767442,195,0.34
+"332","Secondary","Renfrew High School","Renfrewshire","http://www.renfrewhigh.renfrewshire.sch.uk/","Non-denominational",841,68.3,48,55.87142,-4.3853468,12.3133235724744,121,0.41
+"333","Secondary","Trinity High School","Renfrewshire","http://trinityhighrenfrew.co.uk/","Roman Catholic",940,72.7,40,55.8773488,-4.3870157,12.92984869326,128,0.41
+"334","Secondary","Gryffe High School","Renfrewshire","http://www.gryffehigh.renfrewshire.sch.uk/","Non-denominational",963,75.2,99,55.8650294,-4.5542416,12.8058510638298,13,0.67
+"335","Secondary","Inverclyde Academy","Inverclyde","http://inverclydeacademy.inverclyde.sch.uk/","Non-denominational",721,60.1,31,55.9396978,-4.8103925,11.9966722129784,243,0.3
+"336","Secondary","Clydeview Academy","Inverclyde","http://clydeviewacademy.inverclyde.sch.uk/","Non-denominational",960,78.3,61,55.9517179,-4.8011004,12.2605363984674,48,0.53
+"337","Secondary","Notre Dame High School","Inverclyde","http://notredame.inverclyde.sch.uk","Roman Catholic",883,74.5,37,55.9414115,-4.776019,11.8523489932886,98,0.44
+"338","Secondary","St Columba's High School","Inverclyde","http://st-columbashigh.inverclyde.sch.uk/","Roman Catholic",689,57.5,65,55.9540766,-4.8215391,11.9826086956522,153,0.38
+"339","Secondary","Port Glasgow High School","Inverclyde","http://portglasgow.inverclyde.sch.uk/","Non-denominational",541,44.5,12,55.9200465,-4.6535948,12.1573033707865,102,0.44
+"340","Secondary","St Stephen's High School","Inverclyde","http://st-stephens.inverclyde.sch.uk/","Roman Catholic",542,46.6,12,55.9200465,-4.6535948,11.6309012875536,302,0.23
