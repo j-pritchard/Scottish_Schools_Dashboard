@@ -1,0 +1,10 @@
+name: scottish_schools_dashboard
+title:
+username: j-pritchard
+account: j-pritchard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9705829
+bundleId: 7620605
+url: https://j-pritchard.shinyapps.io/scottish_schools_dashboard/
+version: 1
