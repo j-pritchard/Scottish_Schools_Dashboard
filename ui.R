@@ -1,4 +1,4 @@
-ui <- fluidPage(theme = shinytheme("cerulean"),
+ui <- fluidPage(
   
   tabsetPanel(
     # Tab 1 - Map

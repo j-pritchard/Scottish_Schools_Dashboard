@@ -4,7 +4,7 @@ library(tidyverse)
 library(leaflet)
 library(thematic)
 
-thematic_shiny(cerulean)
+thematic_shiny()
 
 # read in clean data
 all_schools <- read_csv("clean_data/all_schools.csv")
